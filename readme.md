@@ -1,4 +1,4 @@
-#### 100% Quarantine
+#### 000% Quarantine
 [<img align="left" width="1920px" height="500px" src="https://user-images.githubusercontent.com/31488481/89282780-d9ad1600-d66d-11ea-9792-5872d8ad29f4.jpeg" />]
 
 ---
@@ -10,7 +10,7 @@
     - ✔ learning flutter! 🎯
     - 🔦 learning node.js 🐱‍🏍
 - 🐱‍💻 I’m looking to learn MERN stack as well.
-- ⚽ 2020 Goals: Acquire knowledge about Full Stack and Mobile Development section. 🥱
+- ⚽ 2021 Goals: Acquire knowledge about Full Stack and Mobile Development section. 🥱
 - ⚡ Fun fact: I love to draw 🎨 play guitar 🎸 and capture portraits 📸
 
 ### Connect with me:

@@ -7,11 +7,24 @@
 
 ### I'm a Lazy Learner, Lover and Stubborn person!
 - 🤷‍♀️ I’m currently,
-    - ✔ learning flutter! 🎯
-    - 🔦 learning node.js 🐱‍🏍
-- 🐱‍💻 I’m looking to learn MERN stack as well.
-- ⚽ 2021 Goals: Acquire knowledge about Full Stack and Mobile Development section. 🥱
+    - ✔ learning data science! 🎯
+    - 🔦 learning machine learning with tensorflow 🐱‍🏍
+- ⚽ 2022 Goals: Confident with DDD based flutter app & making awesome and useful machine learning model for mobile/web app. 🥱
 - ⚡ Fun fact: I love to draw 🎨 play guitar 🎸 and capture portraits 📸
+
+
+### Main Streams
+- Flutter
+- MERN
+
+### Familiar With Languages
+- C,C++
+- JAVA
+- Dart
+- C#  (DESKTOP APP)
+- PHP
+- Python
+
 
 ### Connect with me:
 

@@ -7,9 +7,12 @@
 
 ### I'm a Lazy Learner, Lover and Stubborn person!
 - 🤷‍♀️ I’m currently,
-    - ✔ learning data science! 🎯
-    - 🔦 learning machine learning with tensorflow 🐱‍🏍
-- ⚽ 2022 Goals: Confident with DDD based flutter app & making awesome and useful machine learning model for mobile/web app. 🥱
+    - 📌Learning Kotlin, Jetpack, Native Android Development
+    - ~✔ learning data science! 🎯~
+    - ~🔦 learning machine learning with tensorflow 🐱‍🏍~
+- ⚽ Goals
+    - 2023: Learning Swift UI, and doing IOS native development!  
+    - ~2022 : Confident with DDD based flutter app & making awesome and useful machine learning model for mobile/web app. 🥱~
 - ⚡ Fun fact: I love to draw 🎨 play guitar 🎸 and capture portraits 📸
 
 
@@ -24,6 +27,10 @@
 - C#  (DESKTOP APP)
 - PHP
 - Python
+
+
+
+
 
 
 ### Connect with me:

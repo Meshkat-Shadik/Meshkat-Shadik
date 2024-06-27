@@ -5,7 +5,7 @@
 ### I'm a Lazy Learner, Lover and Stubborn person!
 - 🤷‍♀️ I’m currently,
     - 📌 Learning & Practicing Native Android Development.
-    - 😶‍🌫️ Studying about transport-flow-propagation technology.
+    - 😶‍🌫️ Studying about Data Science and ML.
 - ⚽ Goals
     - 2024: Learning about flow-propagation for traffic-congestion eradication. 
     - ~2023: Learning Jetpack-compose UI, and doing android-native development!~
@@ -52,6 +52,15 @@ I'm always excited about the challenges and opportunities that come with softwar
 | **Tools** |<img src="https://camo.githubusercontent.com/242404e7933ffa6a744979946bcfb06d8bd659957697c34a6351585c1dba707a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61636f732e737667" width="30" height="30"/><img src="https://camo.githubusercontent.com/d3262ef79fd1ab1c653f2d402b715e7bbd796b1f31fa2965fa7d8235ea74cbe0/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f626173682e737667" width="30" height="30"><img src="https://camo.githubusercontent.com/01e3bfc4026734fe437c42c29adec51afbdf0e268241af94631430c079691cbd/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667" width="30" height="30"><img src="https://camo.githubusercontent.com/9849c84c461caaf4f360e01b1210c4e101db5dddf6ddb43001d7d84542732f17/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736c61636b2e737667" width="30" height="30"><img src="https://camo.githubusercontent.com/ff289b3202a175e29eeb8e0c9b2afef137773988608573990e299dffa3b1365f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f636f6c61626f7261746f72792e737667" width="30" height="30"><img src="https://camo.githubusercontent.com/1f7cef798c370ca55949465322e67dd039cf320c7011743d1c49b2ef33de1f48/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61726b646f776e2e737667" width="30" height="30"><img src="https://github.com/Meshkat-Shadik/WeatherApp-Kotlin/assets/31488481/bb5f0c74-31ab-467e-9dcb-0145c21341a0" width="30" height="30"> |
 |**Problem Solving Stats** *(click to view)*|<a href="https://leetcode.com/shadik14/"><img src="https://github.com/Meshkat-Shadik/WeatherApp-Kotlin/assets/31488481/cca777fb-eae3-4a7f-a98c-747f9b959adf" width="30" height="30"></a><a href="https://codeforces.com/profile/Meshkat_Shadik"><img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f" width="30" height="30"></a> <a href="https://judge.beecrowd.com/en/profile/143113"><img src="https://github.com/Meshkat-Shadik/WeatherApp-Kotlin/assets/31488481/d7f5e054-aca1-44f8-a789-d887ab363c1b" width="30" height="30"></a>|
 
+## 👾 App I've worked on (Google Play Store Apk)
+1. Sokrio App - [Here](https://play.google.com/store/apps/details?id=com.sokrio.sokrio_app&pcampaignid=web_share)
+2. Sokrio Manager App - [Here](https://play.google.com/store/apps/details?id=com.sokrio.sokrio_manager&pcampaignid=web_share)
+3. Sokrio Classic App - [Here](https://play.google.com/store/apps/details?id=com.sokrio.sokrio_classic&pcampaignid=web_share)
+4. Dastras - Online Shopping - [Here](https://play.google.com/store/apps/details?id=tj.dastras.ecommerce.app&pcampaignid=web_share)
+5. Dastras Seller - [Here](https://play.google.com/store/apps/details?id=tj.dastras.seller.app&pcampaignid=web_share)
+6. Dastras - Delivery - [Here](https://play.google.com/store/apps/details?id=tj.dastras.delivery.app&pcampaignid=web_share)
+7. Savdo - POS - [Here - on Close Testing review (link may broken)](https://play.google.com/store/apps/details?id=shop.savdo.pos.app&pcampaignid=web_share)
+
 
 
 
@@ -63,6 +72,8 @@ I'm always excited about the challenges and opportunities that come with softwar
 | 1 | Software Engineer (Mobile App) | <a href="https://www.sokrio.com/">Sokrio Technologies</a> | September, 2022 | Currently Working | Dhaka, Bangladesh |
 | 2 | Mobile App Engineer |<a href="https://cifarx.com/"> CifarX</a> | March, 2023 | Currently Working | Remote |
 | 3 | Flutter Developer | BdCoder | June, 2022 | September, 2022 | Remote |
+
+
 
 
 ### 🔥 My LeetCode Stat :

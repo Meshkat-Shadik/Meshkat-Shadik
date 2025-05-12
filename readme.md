@@ -36,7 +36,8 @@ I'm always excited about the challenges and opportunities that come with softwar
 
 | | |
 |-|-|
-|**StackOverflow Profile** *(tap to see)*|<a href="https://stackoverflow.com/users/8539289/meshkat-shadik?tab=profile"><img height="30" alt="image" src="https://github.com/Meshkat-Shadik/Meshkat-Shadik/assets/31488481/e1b92fa1-c45a-42d5-8feb-43a9d82aef0f"></a>| 
+|**StackOverflow Profile** *(tap to see)*|<a href="https://stackoverflow.com/users/8539289/meshkat-shadik?tab=profile"><img height="30" alt="stackoverflow" src="https://github.com/Meshkat-Shadik/Meshkat-Shadik/assets/31488481/e1b92fa1-c45a-42d5-8feb-43a9d82aef0f"></a>| 
+|**Medium Profile** *(tap to see)*|<a href="https://medium.com/@shadik14"><img height="30" alt="medium" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"></a>|
 | **Main Stream** | Mobile App Development |
 | **Sub Stream** | Machine Learning |
 | **Programming Languages** |[![My Skills](https://skillicons.dev/icons?i=dart,kotlin,c,js,python,cs&theme=dark)](https://skillicons.dev)|
@@ -82,9 +83,14 @@ I'm always excited about the challenges and opportunities that come with softwar
 
 
 
+## My Articles : 
+- <a href="https://medium.com/@shadik14/solving-state-isolation-in-flutter-navigation-scoped-providers-to-the-rescue-2c980640e4a5">Riverpod Pro Tip: Use Family Providers for Flawless Same-Screen Navigation</a>
+- <a href="https://medium.com/@shadik14/multiple-git-on-mac-d899099da7b9">Configure multiple GIT on Mac</a>
+
 
 ### 🔥 My LeetCode Stat :
 ![Leetcode Stats](https://leetcard.jacoblin.cool/shadik14?theme=dark&font=Poppins&ext=activity)
+
 
 
 ## 📫 How to reach me

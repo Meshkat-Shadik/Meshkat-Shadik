@@ -2,13 +2,14 @@
 
 
 ## 😺 Intro
-### I'm a Lazy Learner, Lover and Stubborn person!
+### I'm a Lazy Learner, Husband and Sleepy person!
 - 🤷‍♀️ I’m currently,
-    - 🎓 Working on M.Sc. thesis.
-    - 😶‍🌫️ Studying about Data Science and ML. 
+    - 🎓 Doing research.
+    - 😶‍🌫️ Working remotely.
     - ~📌 Learning & Practicing Native Android Development.~
 - ⚽ Goals
-    - 2025: Marriage 
+    - 2026: No Goal 
+    - ~2025: Marriage~
     - ~2024: Learning about flow-propagation for traffic-congestion eradication.~
     - ~2023: Learning Jetpack-compose UI, and doing android-native development!~
     - ~2022: Confident with DDD based flutter app & making awesome and useful machine learning model for mobile/web app. 🥱~
@@ -17,13 +18,13 @@
 
 ## 🎤 About Me
 
-I'm a Software-Engineer at Sokrio Technologies. I'm part of a team that is dedicated to creating innovative solutions for the inhouse product for DMS. My role involves collaborating with cross-functional teams to develop and maintain mobile applications that enhance the company's online platform.
+I’m a Software Engineer at Bloxley, where I work remotely on designing and developing scalable, high-performance applications. My experience spans across building impactful digital products, with a strong focus on mobile platforms and system reliability.
 
-My passion lies in **Mobile App Development**, particularly using the Flutter & Kotlin. I find the both are versatile and powerful, allowing me to build robust mobile applications. I'm constantly honing my skills in this area, staying up-to-date with the latest trends and technologies in this section to deliver the best solutions.
+Previously, at Sokrio Technologies, I played a key role in developing and maintaining in-house DMS solutions, collaborating closely with cross-functional teams to deliver efficient and user-focused mobile applications. I also contributed as a Software Engineer at CifarX, where I worked on a wide spectrum of projects, including complex e-commerce systems, strengthening my ability to adapt across different domains and requirements.
 
-In addition to my full-time job, I have a thriving career on CifarX. Over the years, this remote experience has allowed me to diversify my skill set and work on a wide range of app development projects, from simple app to complex e-commerce platforms. It's been a valuable learning experience, and I'm grateful for the opportunity to collaborate with CifarX from a corner of my room.
+My core expertise lies in Mobile App Development, particularly with Flutter and Kotlin. I focus on writing clean, maintainable code and building scalable architectures that support long-term product growth.
 
-I'm always excited about the challenges and opportunities that come with software engineering and web development. Whether it's solving complex coding problems at my full-time job or taking on interesting projects as a freelancer, I am committed to delivering high-quality solutions and constantly improving my skills to stay at the forefront of the field.
+I’m driven by solving complex engineering problems, continuously refining my craft, and delivering high-quality solutions that create real-world impact.
 
 ## 🥇 Education
 | | | |
@@ -64,12 +65,14 @@ I'm always excited about the challenges and opportunities that come with softwar
 6. LakLak Seller - [Here](https://play.google.com/store/apps/details?id=tj.laklakmarket.seller.app)
 7. LakLak - Delivery - [Here](https://play.google.com/store/apps/details?id=tj.laklakmarket.delivery.app)
 8. Savdo - POS - [Here](https://play.google.com/store/apps/details?id=shop.savdo.pos.app&pcampaignid=web_share)
-9. WebMarket - [Here - on Close Testing review (link may broken)](https://play.google.com/store/apps/details?id=tj.webmarket.ecom.app)
+9. WebMarket - [Here](https://play.google.com/store/apps/details?id=tj.webmarket.ecom.app)
+10. WebMarket Seller - [Here](https://play.google.com/store/apps/details?id=tj.webmarket.seller.app)
 
 ## 👾 App I've worked on (iOS App Store)
 1. LakLak - Online Shopping - [Here](https://apps.apple.com/us/app/laklak-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD/id6737066055)
 2. LakLak - Delivery - [Here](https://apps.apple.com/us/app/laklak-delivery-app/id6737203177)
 3. LakLak - Seller - [Here](https://apps.apple.com/us/app/laklak-seller-app/id6737203641)
+4. WebMarket - [Here](https://apps.apple.com/us/app/%D0%B2%D0%B5%D0%B1%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D1%88%D0%BE%D0%BF%D0%B8%D0%BD%D0%B3/id6753614670)
 
 
 
@@ -78,8 +81,9 @@ I'm always excited about the challenges and opportunities that come with softwar
 
 | No | Job Title | Company Name | Start Date | End Date | Location |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Software Engineer (Mobile App) | <a href="https://www.sokrio.com/">Sokrio Technologies</a> | September, 2022 | Currently Working | Dhaka, Bangladesh |
-| 2 | Software Engineer (Apps) |<a href="https://cifarx.com/"> CifarX</a> | March, 2023 | Currently Working | Remote |
+| 1 | Software Engineer | <a href="https://www.bloxley.com/"> Bloxley </a> | April, 2026 | Currently working | Remote |
+| 1 | Software Engineer (Mobile App) | <a href="https://www.sokrio.com/">Sokrio Technologies</a> | September, 2022 | June, 2026 | Dhaka, Bangladesh |
+| 2 | Software Engineer (Apps) |<a href="https://cifarx.com/"> CifarX</a> | March, 2023 | March, 2026 | Remote |
 | 3 | Flutter Developer | BdCoder | June, 2022 | September, 2022 | Remote |
 
 
@@ -96,7 +100,6 @@ I'm always excited about the challenges and opportunities that come with softwar
 
 ## 📫 How to reach me
 
-[<img align="left" alt="meshkat-shadik.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="Shadik Faysal Meshkat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Shadik Faysal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="meshkat_shadik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -105,7 +108,6 @@ I'm always excited about the challenges and opportunities that come with softwar
 
 ---
 
-[website]: https://meshkat-shadik.github.io/
 [facebook]: https://facebook.com/shadik.faysalmeshkat/
 [instagram]: https://instagram.com/meshkat_shadik
 [linkedin]: https://linkedin.com/in/shadik-faysal-16ab62141
